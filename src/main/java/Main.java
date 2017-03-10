@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
-import java.util.PriorityQueue;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * Created by 77060 on 2016/12/13.
@@ -22,7 +19,7 @@ public class Main {
         A a = new A();
         A.AA b = a.new AA();
         A.AA c = a.new AA();
-
+//        Arrays.binarySearch();
         b.print();
         c.print();
     }
